@@ -35,7 +35,7 @@
     "depends": [
         "base_import",
         "account_bank_statement_import", 
-        "muk_account_accountant", 
+        # "muk_account_accountant",
     ],
     'excludes': [
         'account_bank_statement_import_csv',
